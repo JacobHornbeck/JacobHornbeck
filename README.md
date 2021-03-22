@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacobHornbeck
+- 👋 Hi, I’m JacobHornbeck
 - 👀 I’m interested in...
     - Lot's of stuff, but programming 💾 and web development 💻 are my greatest interests
     - I also like games (both board games 🎲 and computer games 🎮)

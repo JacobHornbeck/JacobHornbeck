@@ -10,7 +10,6 @@
 - 📫 How to reach me...
     - If you want to contact me about something professional 📈, use Jacob.Hornbeck@outlook.com  
     - If you want to contact me about something educational 📓, use hor20009@byui.edu  
-    - If you want to contact me for anything else 🎉, use iamalegomaniac02@gmail.com
 
 <!---
 JacobHornbeck/JacobHornbeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

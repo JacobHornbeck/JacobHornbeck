@@ -1,15 +1,16 @@
 - 👋 Hi, I’m JacobHornbeck
 - 👀 I’m interested in...
-    - Lot's of stuff, but programming 💾 and web development 💻 are my greatest interests
-    - I also like games (both board games 🎲 and computer games 🎮)
+    - Web design/development (Front-end, back-end, full-stack, UI/UX, etc)
+    - Computer Programming/Software Engineering: I know C++, Python, JavaScript, and a little Java
+      I am open to learning others if that's what's needed.
 - 🎓 I’m currently learning...
-    - Not really learning anything specific, just working on projects.
-    - I am waiting to hear back from a company about a possible project
+    - Everything I can. Trying to upgrade my skillset so I can get a good job!
+    - Never stopping, always learning.
 - 🎯 I’m looking to collaborate on...
-    - Nothing right now, I am just working on projects
+    - If you have a project you are working on, and want a collaborator, feel free to reach out!
+      I'm looking for as many projects as I can, so I can practice and to learn.
 - 📫 How to reach me...
-    - If you want to contact me about something professional 📈, use Jacob.Hornbeck@outlook.com  
-    - If you want to contact me about something educational 📓, use hor20009@byui.edu  
+    - Any questions you have, feel free to reach out to me: Jacob.Hornbeck@outlook.com
 
 <!---
 JacobHornbeck/JacobHornbeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
